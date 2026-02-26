@@ -1,29 +1,31 @@
-# Gull Chaman - Full Stack Developer
+About Me
 
----
+Hi, I'm Gull Chaman, a Full Stack Developer and Business Developer.
+I create high-quality, scalable web applications with clean, maintainable code and deliver efficient, user-friendly solutions.
+I also have experience in business development, helping companies grow and achieve their goals.
 
-## About Me
+🌐 Portfolio: https://gull-portfolio-m4n3.vercel.app/
 
-Hi, I'm **Gull Chaman**, a Full Stack Developer.  
-I build high-quality web applications with clean, maintainable, and scalable code.  
-My goal is to deliver efficient, user-friendly, and professional solutions.  
+What I Do
+Web Development
 
-Portfolio: [https://gull-portfolio-m4n3.vercel.app/](https://gull-portfolio-m4n3.vercel.app/)
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
 
----
+Backend: Python, Django
 
-## What I Do
+Responsive, modern UI/UX design
 
-### Web Development
-- Frontend: HTML, CSS, JavaScript, React.js, Tailwind
-- Backend: Python, Django
-- Responsive and modern UI design
+API integration and database management
 
-### DevOps & Cloud (Optional)
-- CI/CD Pipelines (GitHub Actions)
-- Docker & Containerization
-- AWS / Azure / GCP
-- Server deployment and automation
+Business Development
+
+Lead generation and client acquisition
+
+Relationship management and networking
+
+Sales pipeline development and optimization
+
+Strategy planning and execution
 
 ---
 
