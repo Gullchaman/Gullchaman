@@ -1,46 +1,45 @@
-# 🌐 Gull Chaman - Full Stack Developer
+# Gull Chaman - Full Stack Developer
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hi! I'm **Gull Chaman**, a passionate *Full Stack Developer*.  
-I build high-quality web applications and focus on clean, maintainable code.  
+Hi, I'm **Gull Chaman**, a Full Stack Developer.  
+I build high-quality web applications with clean, maintainable, and scalable code.  
+My goal is to deliver efficient, user-friendly, and professional solutions.  
 
-💡 My mission is to deliver scalable, efficient, and user-friendly solutions.  
-
-🌍 Portfolio: [yourportfolio.com](https://gull-portfolio-m4n3.vercel.app/)
+Portfolio: [https://gull-portfolio-m4n3.vercel.app/](https://gull-portfolio-m4n3.vercel.app/)
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-### 💻 Web Development
+### Web Development
 - Frontend: HTML, CSS, JavaScript, React.js, Tailwind
 - Backend: Python, Django
-- Responsive & Modern UI Design
+- Responsive and modern UI design
 
-### ⚙️ DevOps & Cloud (Optional)
+### DevOps & Cloud (Optional)
 - CI/CD Pipelines (GitHub Actions)
 - Docker & Containerization
 - AWS / Azure / GCP
-- Server Deployment & Automation
+- Server deployment and automation
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)  
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)  
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)  
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+[![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)](https://reactjs.org/) 
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://www.python.org/) 
+[![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/) 
+[![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/) 
+[![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - LinkedIn: [Gull Chaman](https://linkedin.com/in/gullchaman)  
-- Email:gullchaman.bd@gmail.com
+- Email: gullchaman.bd@gmail.com
