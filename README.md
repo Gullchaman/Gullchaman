@@ -41,8 +41,6 @@ Strategy Planning & Execution
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)](https://reactjs.org/) 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://www.python.org/) 
 [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/) 
-[![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/) 
-[![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
 
 ---
 
