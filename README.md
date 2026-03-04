@@ -47,5 +47,7 @@ Strategy Planning & Execution
 ---
 
 ## Connect With Me
-- LinkedIn: [Gull Chaman](https://linkedin.com/in/gullchaman)  
+- LinkedIn: www.linkedin.com/in/gull-chaman-bd
+Vanity URL name
+  
 - Email: gullchaman.bd@gmail.com
